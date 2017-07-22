@@ -1,4 +1,6 @@
 # Matrix-Transpose
 
-This is a program made in C Programming Language.  
-It Finds the transpose of a 3x3 Matrix, utilizing the `goto()` function for a better looking input and output.
+This program utilizes a 2D array to create 3x3 matrix.  
+It uses a `gotoxy()` function specifies the co-ordinates where the cursor is positioned.  
+This ensures that the Input as well as the Output looks smooth.
+
