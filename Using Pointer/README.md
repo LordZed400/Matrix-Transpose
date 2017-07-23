@@ -1,6 +1,6 @@
 # Matrix Transpose
 
-This program finds the transpose of any `m`x`n` matrix using C++.  
+This program finds the transpose of any `m`x`n` matrix using C.  
 The matrices **are not** Multi-dimensional arrays, but are Dynamically allocated using the `malloc()` function.  
 This allows the matrix to be of any dimension.  
   
